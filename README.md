@@ -8,6 +8,8 @@ A non-skidded (except for the command handler) discord selfbot fully made in Jav
 
 For the command list, go to <I'll add site>
 
+To use this selfbot do npm init then npm install all the packages u need for it to work (listed in modules.txt)
+
 <h1 align="center">
   NOTE
 </h1>
